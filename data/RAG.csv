@@ -1,0 +1,491 @@
+Level 1 Term,Level 2,FDA Code,Definition
+Patient Device Interaction Problem,,4001,Problem related to the interaction between the patient and the device.
+,Patient-Device Incompatibility,2682,Problem associated with the interaction between the patient's physiology or anatomy and the device that affects the patient and/or the device.
+,Biocompatibility,2886,Problem associated with undesirable local or systemic effects due to exposure to medical device materials or leachates from those materials by a patient who has an implant or is receiving treatment with a device made from them.
+,Device Appears to Trigger Rejection,1524,"The device appears to elicit undesired response in the patient to the presence of an implanted or invasive device, without inherent device failure, e.g. fibrous encapsulation, or inflammation of the tissue around the device, or extrusion of the device."
+,Inadequacy of Device Shape and/or Size,1583,The physical size and/or shape of the device was inadequate with regard to the patient's anatomy.
+,Osseointegration Problem,3003,Problem associated with interconnection between the bone tissue and the implanted device.
+,Failure to Osseointegrate,1863,Problem associated with the failure to see direct anchorage of an implant by the formation of bony tissue around the implant without the growth of fibrous tissue at the bone-implant interface.
+,Loss of Osseointegration,2408,Problem associated with weakened integration of the device at the bone-implant interface due to loss of fibrous and/or bony tissue and leading to compromised anchorage of the device. i.e. Loosening/Lysis
+,Loosening of Implant Not Related to Bone-Ingrowth,4002,Problem associated with the loss of direct anchorage of an implanted device over time or due to an injury.
+,Migration or Expulsion of Device,1395,"Problem with an implanted or invasive device moving within the body, or being completely expelled from the body."
+,Expulsion,2933,Problem with all or part of an implanted or invasive device being completely expelled from its intended location within the body.
+,Migration,4003,Problem with all or part of an implanted or invasive device moving from its intended location within the body.
+,Lack of Effect,4065,Problems associated with a product having less efficacy than expected. No other malfunctions could be identified.
+,Device Stenosis,4066,"Problem associated with the narrowing or obstruction of the device (e.g. prosthetic heart valves, stents, etc.)."
+,Implant subsidence,4078,"Problem related to the settling or collapse of bone adjacent to an implanted device, in direction of the loading force."
+"Manufacturing, Packaging or Shipping Problem",,2975,"Problem associated with any deviations from the documented specifications of the device that relate to nonconformity during manufacture to the design of an item or to specified manufacturing, packaging or shipping processes (out of box problem)."
+,Product Quality Problem,1506,Problem associated with an inherent device characteristic that is not satisfactory as specified or delivered.
+,"Dull, Blunt",2407,Problem associated with a device not being as sharp as intended or expected.
+,Nonstandard Device,1420,"Problem associated with the device that does not meet the specifications or requirements for which it was manufactured (e.g. materials, parts, manufacturing process)."
+,Defective Component,2292,Problem associated with a device component having flaws of dimensional deviations greater than acceptable for the intended use.
+,Defective Device,2588,Problem associated with having flaws or dimensional deviations greater than acceptable for the intended use of the device.
+,Device Damaged Prior to Use,2284,Problem associated with packaging or shipping damage prior to the use of the device.
+,Packaging Problem,3007,Problem associated with the materials used to construct the cover or outer wrapping of the device.
+,Difficult to Open or Remove Packaging Material,2922,"Problem associated with difficulty for users to operate the device, specifically as it relates to the opening or removal of the outer wrapping."
+,Incomplete or Missing Packaging,2312,Problem associated with the nonconformance to the device specifications due to incomplete or missing packaging that may compromise the device operation as intended.
+,Unsealed Device Packaging,1444,Problem associated with the loss of packaging seal.
+,"Tear, Rip or Hole in Device Packaging",2385,"Problem associated with packaging damage (tear, rip or hole) prior to the use of the device."
+,Device packaging look-alike,4079,Problem associated with medical device packaging that  looks similar to another product leading to confusion. The other product may be another device or a different product such as a medicine or cleaning agent.  Use A210107 for Device label look-alike.
+,Device Misassembled During Manufacturing /Shipping,2912,A device found incorrectly assembled when delivered to the user facility.
+,Component Misassembled,4004,A device found to have one or more components incorrectly assembled when delivered to the user facility. This includes cases in which components are interchanged.
+,Component Missing,2306,A device component(s) found to be missing when delivered to the user facility.
+,Extra Components,4067,More than the usual number of components present/additional components from this or other devices.
+,Shipping Damage or Problem,1570,Problem associated with shipping damage or problem prior to the use of the device.
+,Delivered as Unsterile Product,1421,"Problem associated with a device being received in such a manner to indicate that its sterility has been compromised (e.g. sterile packaging breached, visible contaminate present)"
+Chemical Problem,,2893,"Problem associated with any from the documented specifications of the device that relate to any chemical characterization, i.e., element, compound, or mixture."
+,Device Emits Odor,1425,Problem associated with an unexpected or inappropriate smell released by the device.
+,Device Ingredient or Reagent Problem,2910,Problem associated with any deviations from the documented specifications of the device that relate to any ingredient or reagent characterization.
+,Clumping in Device or Device Ingredient,1095,Problem associated with the aggregation of particles into irregular masses.
+,Coagulation in Device or Device Ingredient,1096,"Problem associated with the undesired characterization of congealing, solidifying, thickening, curdling."
+,Precipitate in Device or Device Ingredient,1478,Problem associated with the separation of solid particles from a liquid as the result of a chemical or physical change.
+,Cross Reactivity,1137,Problem associated with the degree to which an antibody or antigen participates in cross reactions.
+,Particulates,1451,Substances that consist of separate particles that are introduced by the device during use.
+,High pH,2426,pH higher than expected and/or anticipated.
+,Low pH,4005,pH lower than expected and/or anticipated.
+,Unexpected Color,4055,Color of product is different from that expected.
+,Improper Chemical Reaction,2952,Problem associated with an unexpected or incomplete chemical reaction or effect.
+Material Integrity Problem,,2978,Problem associated with any deviations from the documented specifications of the device that relate to the limited durability of all material used to construct device.
+,Break,1069,Problem associated with undesired damage or breakage of those materials used in the device construction.
+,Fracture,1260,Problem associated with a partial or full-thickness crack in the device materials.
+,Loss of or Failure to Bond,1068,"Problem associated with lack or loss of adherence between materials intended to be joined together by any bonding such as an adhesive, heat welding, etc."
+,Material Fragmentation,1261,Problem associated with small pieces of the device breaking off unexpectedly.
+,Solder Joint Fracture,2324,Problem associated with undesired damage or breakage in a solder joint of materials used in the device construction.
+,Burst Container or Vessel,1074,Problem associated with the pressure inside a vessel or container rising to such a degree that the container ruptures.
+,Explosion,4006,"Problem associated with the violent bursting due to the sudden expansion of air, gas or fluid."
+,Crack,1135,Problem associated with an undesired partial separation and/or a visible opening along the length or width in the materials that are used in the device construction.
+,Degraded,1153,"Problem associated with a undesired change in the chemical structure, physical properties, or appearance in the materials that are used in the device construction."
+,Calcified,1077,Problem associated with buildup of calcium salts on the device.
+,Corroded,1131,"Problem associated with the chemical or electrochemical reaction between materials, usually a metal and its environment that produces a deterioration of the metal and its properties."
+,Material Erosion,1214,Problem associated with a progressive loss of a material from a solid surface.
+,Pitted,1460,"Problem associated with the corrosion of a material's surface, confined to a point or small area that takes the form of cavities."
+,Flaked,1246,Problem associated with the detachment of small pieces of the coating film of a material.
+,Peeled/Delaminated,1454,"Peeling or delamination of composite materials, including coatings, that occurs when layers are separated as a result of stress or impact and resulting in loss of mechanical toughness."
+,Naturally Worn,2988,"Problem associated with material damage to a surface, usually involving progressive loss or displacement of material, due to relative motion between that surface and a contacting substance or substances."
+,Unraveled Material,1664,"Problem due to the undesired unravelling of material (e.g. disentangled, unwound etc.)."
+,Material Deformation,2976,Problem associated with an undesired material change in shape or property caused by external forces.
+,Deformation Due to Compressive Stress,2889,"Problem associated with an undesired bulge, bend, bow, kink, or wavy condition observed in the device material resulting from compressive stresses."
+,Dent in Material,2526,"Problem associated with a undesired change in shape, characterized by the presence of a slight hollow (dent) in the device surface."
+,Failure to Fold,1255,"Problem associated with an undesired material change in physical property, characterized by failure to fold."
+,Failure to Unfold or Unwrap,1669,Problem associated with the comprising materials' deformation in that device fails to open its wrapping or open/extend in a certain manner i.e. balloon or lens.
+,Material Frayed,1262,Problem associated with the comprising materials having damaged edges.
+,Material Invagination,1336,"Problem associated with an undesired material change in shape, characterized by the infolding of one part within another part of a structure."
+,Material Too Rigid or Stiff,1544,"Problem associated with an undesired material change in physical property, characterized by rigidity (it resists deformation in response to an applied force)."
+,Material Too Soft/Flexible,4007,Problem associated with any device material that results in the material's inability to maintain the desired shape or support function.
+,Material Twisted/Bent,2981,Problem associated with deformations that lead to twisting or bending of the device.
+,Melted,1385,Problem associated with a solid device being transformed into a molten or liquid state.
+,Stretched,1601,Problem associated with an increase or elongation in a materials' dimension.
+,Thickening of Material,4056,Device is thickened due to deformation. Note: Not to be used for thickening of liquid.
+,Material Discolored,1170,"Problem associated with an undesired streak, pattern and/or a noticeable change in color from the rest of the materials used in the device construction."
+,Material Disintegration,1177,Problem associated with material breaking into small particles.
+,Material Opacification,1426,Problem associated with an undesirable opaqueness or cloudiness.
+,Material Perforation,2205,Material constituting device is perforated possibly compromising the device's intended purpose.
+,Material Puncture/Hole,1504,Device material(s) punctured leading to undesired holes/openings.
+,Material Protrusion/Extrusion,2979,"Problem associated with undesired physical appearance of device material, specifically when material extends beyond or above device surface."
+,Material Rupture,1546,Problem associated with perforations that lead to bursting of the device.
+,Material Separation,1562,Problem associated with an undesired disassociation or breaking apart of the device.
+,"Material Split, Cut or Torn",4008,"Problem associated with materials consisting the device are split, cut or torn due to external forces (e.g. wrenching or laceration) or internal forces (e.g. exceeding the tensile stress limits belonging to the materials used in the device construction)."
+,Scratched Material,3020,Problem associated with an undesirable shallow cut or narrow groove in the surface of the device materials.
+Mechanical Problem,,1384,"Problems associated with mechanical actions or defects, including moving parts or subassemblies, etc."
+,Detachment of Device or Device Component,2907,"Problem associated with the separation of the device from its physical construct, integrity, or chassis."
+,Device Damaged by Another Device,2915,Problem associated with one device causing harm to another device.
+,Ejection Problem,4009,Problems associated with the inability or unexpected ejection or discharge of the device from its physical location.
+,Failure to Eject,4010,Problem associated with the inability of the device to be ejected or discharged from its physical location.
+,Unintended Ejection,1234,"Problem associated with unexpected ejection of the device from its physical location. This includes but is not limited to devices such as clip appliers, film cartridge, and staples."
+,Leak/Splash,1354,"Problem associated with the escape of a liquid (including blood and bodily fluids), gas or radiation from the vessel or container in which it is housed."
+,Fluid/Blood Leak,1250,"Escape (Release, Discharge) of fluid (including blood or bodily fluid) through an unintended location; often accompanied by a loss of pressure and/or output. This includes both external and internal fluid leak. This does not include fluidized powder leak."
+,Gas/Air Leak,2946,Problem associated with the unintended escape of a gas/air from the container in which it is housed. This also includes both external and internal air/gas leak.
+,Gel Leak,1267,"Escape (Release, Discharge) of gel through an unintended location - as in leakage of ultrasound gel. Escape or release of gel from containment structures - as in gel filled implant leak."
+,Radiation Leak,1357,"Escape of radiation (energy in the form of waves or subatomic particles, especially those that cause ionization) through containment structures, leading to unintended exposure."
+,Perivalvular Leak,1457,"Problem associated with the escape of blood around a heart valve, particularly around its leaflets. Also known as paravalvular leak."
+,Intravalvular regurgitation,4068,Problem associated with the escape or backward flow of blood through or across the valve.  Also known as transvalvular regurgitation
+,Powder Leak,4069,"Escape (release, discharge) of powder (including particulates) through an unintended location,  often accompanied by a loss of pressure and/or output."
+,Endoleaks,4074,Problem associated with persistent blood flow/pressure in the aneurysm sac following an endovascular aneurysm repair (EVAR) procedure.
+,Unspecified Valve Regurgitation,4080,Problem associated with the escape or backward flow of blood relative to a valve where it is not specified or not confirmed whether the leak is transvalvular/intravalvular or paravalvular/perivalvular.
+,Firing Problem,4011,Problem associated with the device not discharging as intended.
+,Failure to Fire,2610,Problem associated with failure of the device to discharge its load (e.g. surgical stapler failed to partially or completely deploy its staples).
+,Misfire,2532,Problem associated with a therapy or algorithm not being delivered or executed at the expected time.
+,Mechanical Jam,2983,The motion of the device is prevented or restricted.
+,Mechanics Altered,2984,"Problem associated with a device mechanical functioning of machinery, moving parts or tools of device being changed or modified."
+,Failure to Align,2522,"Problem associated with a circuit, equipment, or system whereby its functions fail to be properly synchronized or its relative positions properly oriented."
+,Failure to Cut,2587,"Inability of the device to make an incision, pierce or open as intended."
+,Failure to Cycle,1142,Problem associated with the device failing to complete a series of processes or events.
+,Failure to Form Staple,2579,Problem associated with the device failing to connect tissue with a stapling device due to the staples not forming correctly.
+,Failure to Seal,4070,Problem associated with the device failing to seal the intended vessel with the device intended to provide a seal (e.g. electrosurgical hemostasis). 
+,"Noise, Audible",3273,"Problem associated with any unintended sound which emanates from the device (for example, squeaking from two parts rubbing together or buzzing sounds from electrical components)."
+,Physical Resistance/Sticking,4012,Problem associated with the lack of movement in the device due parts sticking or seizing.
+,Adhesive Too Strong,4071,Strength of an adhesive bond is too great; typically used when the adhesive is meant as a temporary hold but is acting in a more permanent manner.
+,Retraction Problem,1536,Problem associated with drawing back the device to an intended location.
+,Structural Problem,2506,Problem associated with the basic physical construction or physical make up of the device.
+,Collapse,1099,Problem associated with the buckling or crushing of material from external forces.
+,Sharp Edges,4013,The device has undesirable sharp edges which can cause harm or damage.
+,"Difficult to Fold, Unfold or Collapse",1254,"Problem associated with the use of the device in terms of user experiencing difficulty to close or to spread out/extend length of the device, even if the operation is being performed according to labeled instructions for use."
+,Difficult to Open or Close,2921,"Problem associated with the use of the device in terms of user experiencing difficulty opening and closing the device, even if the operation is being performed according to labeled instructions for use."
+,Incomplete Coaptation,2507,Problem associated with the heart valve leaflet not closing properly.
+,Unintended Movement,3026,"Problem associated with an undesired movement of the device, which may be related to the device malfunction, misdiagnosis, or mistreatment."
+,Device Dislodged or Dislocated,2923,Problems associated with the device not remaining in an expected location.
+,Device Tipped Over,2589,Problem associated with the inability of the device to stay in an upright position.
+,Device Fell,4014,Problem associated with the device or a component unexpectedly being dropped or moving down from an intended place.
+,Device Slipped,1584,Problem associated with the device moving or sliding from the intended position.
+,Unintended Collision,1429,Problem associated with the device impacting with another object.
+,Unintended System Motion,1430,Problem associated with any motion of the system or components that was not initiated by the user.
+,Unstable,1667,Problem associated with the mechanical stability of the device.
+,Vibration,1674,Problem associated with the undesirable mechanical oscillation.
+,Inadequate Lubrication,4057,The device shows inadequate lubrication.
+,Damaged Thread,4075,Problems associated with threads that are damaged either prior to use due to bad threading or repeated re-use (possibly with other damaged components) or threads that became stripped or damaged while being used.
+Optical Problem,,3001,Problem associated with transmission of visible light affecting the quality of the image transmitted or otherwise affecting the intended application of the visible light path.
+,Misfocusing,1401,The problem relates to the poor focusing of the object or the focus is on the wrong object or in the wrong area.
+,Optical Decentration,1360,Problem associated with being off-center of optical lenses.
+,Optical Discoloration,2999,Problem associated with an undesired change of color.
+,Optical Distortion,3000,Problem associated with an optical defect in an image-forming system whereby the image is not the shape of an ideal image of the object.
+,Optical Obstruction,3002,"Problem associated with the blocking of optical devices, e.g. visual pathways."
+Electrical /Electronic Property Problem,,1198,Problem associated with the function of the electrical circuitry of the device.
+,Capturing Problem,2891,Problem associated with the inability of the device to achieve successful depolarization and contraction of a cardiac chamber caused by a pacemaker output pulse.
+,Failure to Capture,1081,Problem associated with the failure to achieve effective and consistent depolarization of the heart resulting from the electrical stimulus of the pacemaker.
+,High Capture Threshold,3266,Problem with the amount of output energy needed to cause cardiac depolarization being higher than expected/desired.
+,Intermittent Capture,1080,Problem associated with the ineffective and inconsistent depolarization of the heart.
+,Unstable Capture Threshold,3269,Problem with the amount of output energy needed to cause cardiac depolarization being unstable.
+,Continuous Firing,1123,Problem associated with the excessive production of electrical impulses over a period.
+,Arcing,2583,"Problem associated with electrical current flowing through a gap between two conductive surfaces, typically resulting in a visible flash of light."
+,Arcing at Paddles,1032,"Problem associated with electrical current flowing through a gap between paddles (conductive surfaces), typically resulting in a visible flash of light."
+,Arcing of Electrodes,2289,"Problem associated with electrical current flowing through a gap between electrodes (conductive surfaces), typically resulting in a visible flash of light."
+,Sparking,2595,"Problem associated with a flash of light related to an electrical discharge into a normally non conductive medium, such as air. Not associated with a discharge between two conductive surfaces."
+,Battery Problem,2885,"Problem associated with the internal power of the device (e.g. battery, transformer, fuel cell or other power sources)."
+,Battery Problem: High Impedance,2947,Problem related to increased battery internal impedance.
+,Battery Problem: Low Impedance,2973,Problem related to decreased battery internal impedance.
+,Failure to Run on Battery,1466,Problem associated with the device failing to operate when not connected to a fixed power source.
+,Premature Discharge of Battery,1057,Battery discharging earlier than expected.
+,Charging Problem,2892,Problem associated with the inability of the device to successfully charge an electrical source.
+,Aborted Charge,2288,Problem associated with the premature ending of the charging process (e.g. of a battery or other charge storage device).
+,Delayed Charge Time,2586,Problem associated with an unexpected amount of time required to charge the device (e.g. a delay in starting charging or a longer than expected charge time).
+,Failure to Charge,1085,Problem associated with inability to initiate the appropriate charging process (e.g. of a battery or other charge storage device)
+,Failure to Discharge,1169,Problem associated with the failure of a battery or other charge storage device to appropriately discharge as intended. Does not apply to defibrillation.
+,Power Problem,3010,Problem associated with the energy to operate the device.
+,Complete Loss of Power,4015,Problem associated with the lack of power to run the device.
+,Intermittent Loss of Power,4016,Problem associated with an intermittent disruption to the power to run the device.
+,Failure to Power Up,1476,Problem associated with the inability of the device to turn on related to energy delivered to the device.
+,Unintended Power Up,1162,Problem associated with the device turning on when not intended.
+,Device Sensing Problem,2917,"Problem associated with the device feature that are designed to respond to a physical stimulus (temperature, illumination, motion, cardiac rhythms) and that do not transmit a resulting signal for interpretation or measurement."
+,Decreased Sensitivity,2534,Problem with the device being less sensitive to an input than intended or expected.
+,Increased Sensitivity,2535,Problem with the device being more sensitive to an input than intended or expected.
+,Failure to Analyze Signal,1539,Problem with the device not analyzing a signal.
+,Failure to Select Signal,1582,Problem associated with the failure of the device to select the appropriate input signal.
+,High Sensing Threshold,2574,Problem associated with the amount of input required by the device to detect a signal being higher than expected/desired.
+,Low Sensing Threshold,2575,Problem associated with the amount of an input required by the device to detect a signal being lower than expected/desired.
+,Loss of Threshold,1633,"Problem associated with the loss of the minimum amount of energy, voltage, or current needed to consistently stimulate the heart muscle."
+,Failure to Sense,1559,"Problem associated with the failure of the device designed to respond to a physical stimulus (as temperature, illumination, motion) to transmit a resulting signal for interpretation or measurement."
+,Over-Sensing,1438,Problem related to failure of the device to properly filter cardiac signals resulting in inappropriate device response.
+,Under-Sensing,1661,Problem related to failure of the device to properly detect intrinsic cardiac activity and respond appropriately.
+,Sensing Intermittently,1558,Problem with the device receiving an incoming signal on an intermittent basis when expected to be continuous.
+,Incorrect Interpretation of Signal,1543,Problem with the device inappropriately analyzing a signal.
+,Failure to Conduct,1114,Problem associated with the inability of the device to allow a current of electricity to pass or to conduct electricity continuously along an electrical path.
+,Interrogation Problem,4017,Problems associated with the device's ability to respond to signals from a system designed to interrogate its status.
+,Difficult to Interrogate,1331,Problem associated with difficulty of a transponder system to trigger a response.
+,Failure to Interrogate,1332,Problem associated with the device failure to appropriately respond to signals from a system designed to interrogate its status.
+,Pacing Problem,1439,Problem associated with the inability of the device to generate a therapeutic simulated heart beat via electrical impulses.
+,Failure to Convert Rhythm,1540,Failure of the device therapy or set of therapies to terminate the harmful cardiac rhythm that the therapy is meant to terminate.
+,Inaccurate Synchronization,1609,"Problem associated with an error due to imperfect timing of two operations, e.g. signal transmission time."
+,Inappropriate Waveform,2536,"Failure of the device to generate a correctly-shaped pacing output, e.g., a waveform that is too wide."
+,No Pacing,3268,Problem associated with the device ceasing to deliver paces.
+,Pacemaker Found in Back-Up Mode,1440,"A device with a pacing function found in back-up Mode. This may be an appropriate fail-safe action (e.g. end of battery life), or be caused by device malfunction or due to operator error."
+,Pacing Asynchronously,1441,"Problem associated with a pacing transmission process such that between any two significant instants in the same group, there is always an integral number of unit intervals. Between two significant instants located in different groups, there are not always an integral number of unit intervals."
+,Pacing Inadequately,1442,Pacing voltage or pulse width is less than desired.
+,Pacing Intermittently,1443,"Problem associated with the failure of pacing device for a limited period of time, following which the item recovers its ability to perform its required function without being subjected to any external corrective action. Note: such as failure is often recurrent."
+,Pocket Stimulation,1463,Problem associated with a pocket of skin in which the pulse generator is housed.
+,Defibrillation/Stimulation Problem,1573,Problem associated with the delivery of electrical shock/stimulation by a device intended to deliver shocks/stimulation.
+,Failure to Deliver Shock/Stimulation,1133,Problem associated with the failure of the device to deliver electrical energy.
+,Inappropriate/Inadequate Shock/Stimulation,1574,A shock was delivered with incorrect energy level or at incorrect timing.
+,Intermittent Shock/Stimulation,2287,"Problem associated with the failure to deliver electrical energy for a limited period of time, following which the item recovers its ability to perform its required function without being subjected to any external corrective action. Note: such a failure is often recurrent."
+,Unintended Electrical Shock,4018,The device delivers unintended electrical shock. Use this term for devices that are not intended to deliver shocks/stimulation.
+,Grounding Malfunction,1271,Problem associated with the inability to connect conductors of an electronic system for the purpose of controlling or impeding ground currents and voltages.
+,Electrical Overstress,2924,Problem associated with an electrical activity that exceeded the specified threshold limit of the internal integrated circuitry.
+,Electro-Static Discharge,2149,Problem associated with the discharge of electricity between two bodies previously electrically charged.
+,Failure to Shut Off,2939,Problem associated with the device not powering off when a shut down was requested.
+,Device Remains Activated,1525,Problem associated with the device continuing to be in an active state after deactivation was requested.
+,Unexpected Shutdown,4019,Problem associated with the device unexpectedly powering down.
+,Electromagnetic Compatibility Problem,2927,Problem associated with the ability of a system to function in its electromagnetic environment without introducing intolerable disturbances to anything in its environment.
+,Electromagnetic Interference,1194,Problem associated with a measure of electromagnetic radiation from equipment.
+,Radiofrequency Interference (RFI),2314,Problem associated with the degradation of the reception of a wanted signal caused by RF disturbance.
+,Circuit Failure,1089,"Problem associated with a failure of the internal network paths or electrical circuitry (i.e. electrical components, circuit boards, wiring)"
+,Capacitative Coupling,1079,Problem associated with the transfer of energy within an electrical network by means of the capacitance between circuit nodes. It occurs when energy is coupled from one circuit to another through an electric field.
+,Electrical Shorting,2926,Problem associated with an electric current travelling along an accidental path (unintended path) in a circuit.
+,Intermittent Continuity,1121,Problem associated with intermittent faults in electrical/electronic interconnections.
+,Impedance Problem,2950,Problem associated with electrical impedance levels between device and patient connections.
+,High impedance,1291,Problem associated with higher than intended electrical impedance levels between device and patient connections.
+,Low impedance,2285,Problem associated with lower than intended electrical impedance levels between device and patient connections.
+,Device in Backup-mode,4076,"A device found in back-up mode. This may be an appropriate fail-safe action (e.g. end of battery life), or be caused by device malfunction or due to operator error."
+Calibration Problem,,2890,"Problem associated with the operation of the device, related to its accuracy, and associated with the calibration of the device."
+,Failure to Calibrate,2440,Problem associated with the failure of the device to perform a self-calibration procedure or process designed to assure the accuracy and proper performance of the device.
+,Failure to Recalibrate,1517,Problem associated with the failure of the device which is unable to regain a standard level of accuracy when performing a calibration procedure or process designed to assure the accuracy and proper performance of the device.
+,Imprecision,1307,Problem associated with the device providing imprecise measurements when compared to a reference standard.
+,Overcorrection,3006,Problem associated with an adjustment that surpasses a set of criteria.
+,Undercorrection,4058,Problem associated with an adjustment that falls below a set of criteria.
+Output Problem,,3005,"Problem associated with any deviation from the documented specifications of the device that relate to the end result, data, or test results provided by the device."
+,Audible Prompt/Feedback Problem,4020,"Problem with any deviation from the documented specifications of the device that relate to audible feedback. e.g. voice prompts or beeps, but not safety related alarms which are covered under ""Protective Measures Problem""."
+,Inappropriate Audible Prompt/Feedback,2280,Problem with audible messages which do not guide a device user to the correct action.
+,Inaudible or Unclear Audible Prompt/Feedback,2283,Problem associated with audible prompts which cannot be heard clearly.
+,No Audible Prompt/Feedback,2282,Problem associated with the device ceasing to provide audible prompts.
+,Display or Visual Feedback Problem,1184,"Problem with any deviation from the documented specifications of the device that relate to visual feedback. e.g. the display of information, images on a screen, or output from the device."
+,Device Displays Incorrect Message,2591,Problem associated with providing incorrect display information.
+,Display Difficult to Read,1181,"Problem associated with legibility of the display, compromising for instance  the reading/interpretation of patient parameters or test results. Legibility problems can be due to color, size of font, display screen contrast or other factors."
+,Erratic or Intermittent Display,1182,"A device does not consistently display the same message, result, reading, or image. e.g. the display might flicker, switch between readings or messages, or go completely blank for brief periods of time."
+,Image Display Error/Artifact,1304,Problem with image display leading to corrupted images or readouts/measurement indications.
+,Image Orientation Incorrect,1305,Problem associated with an incorrect image orientation on the device display.
+,No Display/Image,1183,Problem associated with the absence of display or image.
+,No Visual Prompts/Feedback,4021,Problem associated with the device ceasing to provide visual feedback.
+,Poor Quality Image,1408,"Inadequate quality of an image or any visual representation displayed by the device, or output from the device."
+,Visual Prompts will not Clear,2281,Problem with visual messages which continue to be displayed on/by the device after the appropriate action has been taken.
+,Tactile Prompts/Feedback,4022,Problem with any deviation from the documented specifications of the device that relate to tactile feedback. e.g device vibrational prompt.
+,Inappropriate Tactile Prompt/Feedback,4023,Problem with tactile feedback which does not guide a device user to the correct action.
+,No Tactile Prompts/Feedback,4024,Problem associated with the device ceasing to provide tactile feedback.
+,Energy Output Problem,1431,Problem with the device's intended output of energy.
+,Energy Spectrum Incorrect,1210,Problem associated with the energy output from the device not being in the expected part of the spectrum.
+,Failure to Deliver Energy,1211,Problem associated with the failure of the device to deliver any energy.
+,Intermittent Energy Output,4025,Problem associated with the energy output from the device being inconsistent over time.
+,Output above Specifications,1432,Device output is exceeding the documented specifications of the device.
+,Output below Specifications,3004,Device output is below the documented specifications of the device.
+,Therapeutic or Diagnostic Output Failure,3023,Problem associated with the failure of the device to deliver the output required for treatment or identification of a disease.
+,Therapy Delivered to Incorrect Body Area,1508,Problem associated with the device causing unintended therapeutic action to an area of the body other than the intended area.
+,Radiation Output Problem,4026,Problem with the device's intended output of radiation.
+,Radiation Output Failure,4027,Problem associated with the absence of radiation output from radiological or diagnostic devices.
+,Radiation Overexposure,3017,Problem associated with excessive radiation emitted from radiological or diagnostic devices.
+,Radiation Underexposure,3018,Problem associated with too little radiation emitted from radiological or diagnostic devices.
+,Unexpected/Unintended Radiation Output,4028,"Device-emitted radiation when it was not supposed to. This applies to devices which are intended to emit radiation, and the radiation being emitted from the correct part of the device, but at an incorrect time. Use ""radiation leak"" if the device emits radiation which should never have been emitted, or from a location from which it should never be emitted."
+,Gas Output Problem,1266,Problem associated with gas output.
+,No Device Output,1435,"Problem associated with no measurement outcome, value or data obtained from the device."
+,"Incorrect, Inadequate or Imprecise Result or Readings",1535,"Problem associated with a nonconforming end result, data, or test results provided by the device to its performance specifications."
+,Signal Artifact/Noise,1036,Problem associated with impurities or interference in a signal (e.g. ECG artifact).
+,Failure to Obtain Sample,2533,The device does not collect or transfer the sample.
+,False Negative Result,1225,Problem associated with the device incorrectly reporting that something has not been detected and may mislead the operator/user/HCP into not taking certain actions when action should be taken.
+,False Positive Result,1227,Problem associated with the device incorrectly reporting that something has been detected and may mislead the operatorr/user/HCP to take certain actions.
+,Incorrect Measurement,1383,Measurement obtained from or provided by the device is obviously incorrect.
+,Non Reproducible Results,4029,Device results cannot be reliably reproduced.
+,High Readings,2459,Reading provided by the device is too high or higher than expected.
+,Low Readings,2460,Reading provided by the device is too low or lower than expected.
+,High Test Results,2457,Test results provided by the device are too high or higher than expected.
+,Low Test Results,2458,Test results provided by the device are too low or lower than expected.
+,Unable to Obtain Readings,1516,The device does not provide or display a valid reading.
+,Missing Test Results,3267,Problem associated with the results of a test or measurement not appearing.
+,Erratic Results,4059,Reports of erroneous/discrepant results which combine high/low and/or positive/negative results. This term is not to be selected where reports indicate consistently high or low or false positive or false negative results.
+,Poor Visibility,4072,"Implanted device is difficult to detect on imaging modalities, e.g. insufficient visibility."
+,Unexpected Therapeutic Results,1631,Problem associated with the use of the device for therapeutic purposes.
+Temperature Problem,,3022,Problem associated with the device producing unintended temperatures.
+,Excessive Cooling,2932,Problem associated with the device producing temperatures that are lower than specified.
+,Excessive Heating,4030,"Problem associated with the device which have a warming or heating function, producing excessive heat."
+,Insufficient Cooling,1130,Problem associated with the device insufficiently cooled in device active (working) or/and non-active (nonworking) state.
+,Insufficient Heating,1287,Problem associated with the device or its components producing temperatures that are not as high as what is specified.
+,Overheating of Device,1437,"Problem associated with the device producing high temperatures, such that its operation is compromised or harm is caused (e.g. overheating that produces melting of components or automatic shutdown)."
+,Thermal Decomposition of Device,1071,Problems associated with a discoloration or destruction as a result of thermal decomposition of the device.
+,Fire,1245,Problem associated with the combustion of the device with a steady flame.
+,Flare or Flash,2942,Problem associated with device-related burn with an unsteady flame.
+,Smoking,1585,"Problem associated with a cloud of vapor or gas generated from the device, generally associated after a fire or a burn."
+Computer Software Problem,,1112,"Problem associated with written programs, codes, and/or software system that affects device performance or communication with another device."
+,Application Network Problem,2879,Problem associated with the deviations from documented system specifications that affects overall system performance and/or the performance of an individual device connected to that system.
+,Application Program Problem,2880,Problem associated with the requirement for software to fulfill its function within an intended use or application.
+,"Application Program Freezes, Becomes Nonfunctional",4031,Problem associated with freezing and/or becoming nonfunctional of an application program.
+,Application Program Problem: Dose Calculation Error,1189,Problem associated with the written program code or application software used by the device to calculate specific measurements or quantities managed by the device.
+,Application Program Problem: Medication Error,3198,Event in which the device software results in errors of medication preparation or administration.
+,Application Program Problem: Parameter Calculation Error,1449,Problem associated with the written program code or application software used by the device to calculate parameters other than those related to dose or power.
+,Application Program Problem: Power Calculation Error,1473,Problem associated with the written program code or application software used by the device for calculations related to device power.
+,Application Program Version or Upgrade Problem,2881,Problem associated with installing updates to a software system that affects the device performance or communication with another device.
+,Problem with Software Installation,3013,Problem associated with installing the device software in a manner that allows full functioning of the device. Source of installation could be manufacturer or user.
+,Unintended Application Program Shut Down,4032,Problem associated with an unintended shut down by malfunction of the application program.
+,Program or Algorithm Execution Problem,4033,Problem associated with execution problems relating to program or algorithm.
+,Delayed Program or Algorithm Execution,4034,Problem associated with delayed execution relating to program or algorithm.
+,Intermittent Program or Algorithm Execution,4035,Problem associated with intermittent execution relating to program or algorithm.
+,Program or Algorithm Execution Failure,4036,Problem associated with the failure of a program or algorithm to execute. Sudden/unexpected interruption to a program's execution.
+,Computer Operating System Problem,2898,"Problem associated with software, firmware, and/or hardware elements that control the execution of computer programs and provides such services as computer resource allocation, job control, input/output control, and file management in a computer system."
+,Operating System Becomes Nonfunctional,2996,Problem associated with malfunction of the computer operating system as opposed to an application software problem.
+,Operating System Version or Upgrade Problem,2997,Problem associated with replacing an older operating system to an up-to-date operating system.
+,Computer System Security Problem,2899,"Problem associated with unauthorized access to or modification of a software system resulting in a loss of confidentiality, integrity, or availability of written program code, application software, or data or entire device."
+,Application Security Problem,2882,"Problem associated with the acquisition of computer programming codes that can replicate and spread from one computer system to another thereby leading to damaged software, hardware and data."
+,Unauthorized Access to Computer System,3025,"Problem associated with an access that was not permitted to the computer system that may lead to modification of program, corruption of data, or and break in network security. This concept is closely associated with computer integrity which is the degree to which a system or component prevents unauthorized access to, or modification of, computer programs or data."
+,Data Back-Up Problem,2902,"Problems relating to a system, component, file, procedure, or person available to replace or help restore a primary item in the event of a failure or externally caused disaster."
+,Failure to Back-Up,1047,Problem associated with the inability to backup or to retrieve a backed up version (corrupted file) of device data or system files.
+,Failure to Convert to Back-Up,1048,"Problem associated with a failure to transition from a primary system, component, file, procedure to a backup in response to a failure in the primary item."
+,Data Problem,3196,"Event in which data (charting, orders, results) is not correctly stored, transferred, updated, or displayed."
+,Loss of Data,2903,"Event in which data is unintentionally permanently or temporarily lost, deleted, corrupted, or overwritten."
+,Patient Data Problem,3197,Event in which data is accessed by the healthcare provider and either the wrong patient or the wrong data is retrieved despite correct inquiry procedures.
+,Date/Time-Related Software Problem,2582,Problem associated with programming of calendar dates and/or time as a factor in the operation of the device.
+Connection Problem,,2900,"Problem associated with linking of the device and/or the functional units set up to provide means for a transfer of liquid, gas, electricity or data."
+,Blocked Connection,2888,"Problem associated with linking of the device whereby their functional units set up to provide means for a transfer of fluid, gas, or data is prevented or impeded."
+,Decoupling,1145,"Problem associated with the device being unassociated in such a way that fluid, gas, power or signal information may not be transferred from one to another."
+,Disconnection,1171,"Problem associated with the linking of the device having a sufficient open space to prevent gas, liquid or electrical current flow between connectors."
+,Failure to Disconnect,2541,"Problem associated with the linking of the device whereby termination of the transfer of liquid, gas, electricity, or information cannot be accomplished, or linking components do not come apart, or disconnect, when expected."
+,Loose or Intermittent Connection,1371,Problem associated with the connection of the device being loose or intermittent.
+,Misconnection,1399,"Problem associated with the connection of the device being improper or not in accordance with device specification, requirements or intended uses."
+,Incomplete or Inadequate Connection,4037,"Problem associated with a partial linking of the device whereby device may appear to be connected however only a partial, intermittent or no transfer of liquid, gas, electricity, or information can be accomplished."
+,Fitting Problem,2183,"Problem associated with the connection of the device whereby channels, switching systems, and other functional units set up to provide means for a transfer of liquid, gas, electricity, or information do not match or fit."
+Communication or Transmission Problem,,2896,Problem associated with the device sending or receiving signals or data. This includes transmission among internal components of the device to which the device is intended to communicate.
+,Failure to Read Input Signal,1581,Problem associated with a failure of the device to read a signal for interpretation or measurement.
+,Failure to Transmit Record,1521,Problem associated with a failure of the device to transmit a record for interpretation or measurement.
+,Intermittent Communication Failure,4038,Inconsistent or lack of intended communication of data among internal components or with other external devices.
+,Telemetry Discrepancy,1629,Problem associated with variability of the transmission of telemetry signals.
+,Wireless Communication Problem,3283,"Problems with the RF wireless technology characteristics and performance (e.g., frequency, output power, range, reception), wireless quality of service, wireless coexistence, security of wireless signals and data, and electromagnetic compatibility."
+Infusion or Flow Problem,,2964,"Problem associated with the device failing to deliver or draw liquids or gases as intended (e.g. delivering drugs at incorrect rate, problems with drawing fluid from a system). This includes vacuum collection devices and manual or mechanical pumps."
+,Deflation Problem,1149,Problem associated with the deflation of the device including unintended deflation or inadequate deflation.
+,Failure to Deflate,4060,Problem associated with the inability to deflate a device which is intended to deflate.
+,Unintended Deflation,4061,Problem associated with the unintended deflation of a device which was not designed to deflate or not at that point in time or not to that extent.
+,Excess Flow or Over-Infusion,1311,"Problem associated with a delivery overdose of therapeutic agents, such as drugs or fluids being delivered into a device or a patient."
+,Filling Problem,1233,Problem associated with the method or amount of time associated with the delivery of a fluid. Time to delivery or amount of delivered entity may be affected.
+,Inability to Auto-Fill,1044,"Complete failure to fill as part of an automated process. For insufficient filling use ""Short Fill"". For excessive filling use ""Overfill"". For inconsistent filling use ""Volume Accuracy Problem""."
+,Overfill,2404,"Excessive filling of a device. For complete failure to fill use ""inability to auto-fill"". For insufficient filling use ""Short Fill"". For inconsistent filling use ""Volume Accuracy Problem""."
+,Short Fill,1575,"Insufficient filling of a device. For complete failure to fill use ""inability to auto-fill"". For insufficient filling use ""short fill"". For inconsistent filling use ""Volume Accuracy Problem""."
+,Volume Accuracy Problem,1675,"Inconsistent filling of a device. This describes a problem which is observed to vary between overfilling and under filling, and may be intermittent. Use ""Overfill"" or ""Short Fill"" if problem is consistent."
+,Filtration Problem,2941,"Problem associated with the process of passing a substance through a porous medium, e.g., a blood clot filter for the removal of suspended matter."
+,Inadequate Filtration Process,2308,Problem associated with the filter failing to remove items or substances which should have been removed.
+,Inadequate Ultra Filtration,1656,Problem associated with the transfer of fluid between the blood and dialysate through the dialysis membrane due to a pressure gradient (trans-membrane pressure) existing between the blood and dialysate compartments.
+,Improper Flow or Infusion,2954,"Problem associated with the regulation and delivery of therapeutic agents (e.g. air, gas, drugs or fluids into a device or a patient under positive pressure)."
+,Backflow,1064,"Continuous flow of fluid (e.g. liquid, gas) against the intended flow direction."
+,Free or Unrestricted Flow,2945,"Problem associated with uncontrolled flow of infusion of air, gas or fluids."
+,Gradient Increase,1270,"Problem associated with the increased rate of change in temperature, pressure, or other variables as a function of distance, time, etc."
+,Inaccurate Delivery,2339,Delivery at endpoint not as intended; either too low or too high.
+,Inaccurate Flow Rate,1249,"Problem associated with fluctuations in the flow volume delivered per time, even if end volume is correct, and delivered in the correct total time."
+,Intermittent Infusion,2341,Problem associated with the infusion not being stead- characterised by intermittent stoppages to the flow.
+,Reflux within Device,1522,"Problem associated with partial backflow, compromising the device's flow output."
+,Restricted Flow rate,1248,Problem associated with flow rate. Flow volume delivered over time is not reaching intended flow rate.
+,Tidal Volume Fluctuations,1634,Problem associated with the amount of gas that is inspired and expired during one respiratory cycle.
+,Inflation Problem,1310,Problem associated with the inability of the device to expand or enlarge with the intended inflation agent (e.g. saline or air).
+,Insufficient Flow or Under Infusion,2182,"Problem associated with an insufficient dose of therapeutic agents, e.g., drugs or fluids being delivered into a patient under positive pressure."
+,No Flow,2991,Problem arising from the device failing to deliver the specified liquid or gas.
+,Failure to Deliver,2338,Failure (=complete nonperformance) with regard to the intended function of delivery.
+,Failure to Infuse,2340,Failure (=complete nonperformance) with regard to the intended function of infusion.
+,Inability to Irrigate,1337,Failure (=complete nonperformance) with regard to the intended function of irrigation.
+,Obstruction of Flow,2423,"Problem related to an obstruction or blockage within the device component (e.g. tube, opening, pipe) that results in restriction of flow (including blood clotting)."
+,Complete Blockage,1094,"Problem related to an obstruction or blockage within the device component (e.g. tube, opening, pipe) that results in no flow."
+,Partial Blockage,1065,"Problem related to an obstruction or blockage within the device component (e.g. tube, opening, pipe) that results in a reduction of the flow rate."
+,Difficult to Flush,1251,"The device is difficult to flush, possibly indicating an obstruction within device."
+,Pressure Problem,3012,Problem associated with the application of a force either internal or external to device that compromises the flow of fluid or gas.
+,Decrease in Pressure,1490,"Unintended decrease in pressure, compromising the device's intended function."
+,Increase in Pressure,1491,"Unintended increase in pressure, compromising the device's intended function."
+,No Pressure,2994,"Unintended complete loss of pressure, compromising the device's intended function."
+,Pumping Problem,3016,Problem associated with pump performance deviating from specifications in a way to compromise flow or infusion or dispensing.
+,Decreased Pump Speed,1500,"Unintended decrease in pump speed and hence, probably, flow rate, compromising the intended function of the device."
+,Increased Pump Speed,1501,"Unintended increase in pump speed and hence, probably, flow rate, compromising the intended function of the device."
+,Failure to Pump,1502,Problem associated with the device which fails to start pumping.
+,Pumping Stopped,1503,Unexpected/unintended cessation of pump.
+,Suction Problem,2170,"Problem associated with suction equipment, which may be a manual, electrical, vacuum or pressure source operated to evacuate and remove undesired substances (air, gas, fluid, or particulates) via tubing and collection bag."
+,Decrease in Suction,1146,Problem associated with the removal of fluid or gas from a body cavity or device due to decreased suction.
+,Increase in Suction,1604,Problem associated with the removal of fluid or gas from a body cavity or device due to increased suction.
+,Suction Failure,4039,Problem associated with the complete inability to provide suction.
+,Priming Problem,4040,Problem associated with the preparation of the device to begin pumping.
+,Failure to Prime,1492,Problem associated with the device failing to begin the priming process (i.e. the process of preparation of device for the delivery of fluids).
+,Incomplete or Inadequate Priming,4041,Problem associated with not adequately preparing the device.
+,Air/Gas in Device,4062,Problem associated with air in the device (e.g. air in line).
+"Activation, Positioning or Separation Problem",,2906,"Problem associated with any deviations from the documented specifications of the device that relate to the sequence of events for activation, positioning or separation of device. Note: Deployment is synonymous with activation."
+,Activation Problem,4042,Problem associated with the activation of the device. Note: Activation includes expansion.
+,Activation Failure,3270,Problem associated with the device failing to be activated including partial activation.
+,Difficult or Delayed Activation,2577,Problem associated with delayed or difficult activation of the device.
+,Premature Activation,1484,Problem associated with early and unexpected activation of the device.
+,Self-Activation or Keying,1557,"Problem associated with the unintended activation of the device, or the device having been unexpectedly turned on during use."
+,Key or Button Unresponsive/not Working,4063,Problem associated with a device not responding to key or button inputs.
+,Positioning Problem,3009,Problem associated with the movement of the device to an intended location.
+,Positioning Failure,1158,Problem associated with the inability of the device to be positioned in a specified location.
+,Malposition of Device,2616,Problem associated with the device being positioned in a location other than intended or specified.
+,Difficult or Delayed Positioning,1157,Problem associated with users experiencing difficulty or delay to position the device to a specified location.
+,Failure to Advance,2524,Problem associated with failure to move the device to an intended location.
+,Difficult to Advance,2920,Problem associated with difficulty moving the device to an intended location (e.g. difficulty in advancing guide wire).
+,Difficult to Insert,1316,"Problem associated with problems introducing or inserting the device, even if the user is operating the device in accordance with the instructions for use or labeling."
+,Difficult to Remove,1528,"Problem associated with the user experiencing difficulty when taking out the device, even if the user is operating device in accordance with the instructions for use or labeling."
+,Entrapment of Device,1212,"Problem associated with the device caught within patient vasculature, tissue, or other device."
+,Separation Problem,4043,Problem associated with the detachment or separation of the device.
+,Separation Failure,2547,Problem associated with the device or one of its components failing to detach or separate as intended.
+,Difficult or Delayed Separation,4044,Problem associated with users experiencing difficulty or delay with detachment or separation of the device.
+,Premature Separation,4045,Problem associated with an early and unexpected detachment or separation of the device from the system.
+Protective Measures Problem,,3015,Problem associated with any deviations from the documented specifications of the device that relate to the implemented and inherited design features specific to devices used for reducing risks to patient or caregiver or maintaining risks within specified levels.
+,Device Alarm System,1012,Problem associated with the alarm system of the device.
+,Alarm Not Visible,1022,The device does not display an alarm message when required.
+,No Audible Alarm,1019,The device fails to emit an audible alarm.
+,Low Audible Alarm,1016,The audible device alarm cannot be heard clearly.
+,Delayed Alarm,1011,The device alarm system operates with delay.
+,False Alarm,1013,Problem associated with the device providing incorrect alarm warning or alert to user.
+,Defective Alarm,1014,The device alarm does not operate as expected and/or in agreement with device's specifications.
+,Fail-Safe Problem,2936,Problem associated with the feature that prevents the unsafe use of the device.
+,Fail-Safe Did Not Operate,4046,"Problem associated with the device fail-safe mechanism, which did not function or function in a non effective way, compromising safe use of the device."
+,No Fail-Safe Mechanism,2990,"The device does not have a fail-safe mechanism, although such mechanism would be required for its appropriate and/or safe functioning."
+,Failure of Device to Self-Test,2937,Problem associated with the device failing to perform an internal self-diagnostic process to ensure normal operation during or prior to use.
+,Failure to Auto Stop,2938,Problem associated with the inability of device to turn itself off when the device is not in an operable condition.
+,Reset Problem,3019,"Problem associated with setting a variable, register, or other storage location back to a prescribed state."
+,Failure to Reset,1532,"Problem associated with the device failing to set a variable, register, or other storage location back to a prescribed state."
+,Failure to Zero,1683,"Problem associated with the device failing to set a variable, register, or other storage location back to zero."
+,Inappropriate or Unexpected Reset,2959,"Problem associated with the device setting a variable, register, or other storage location to an inappropriate or unexpected state."
+,Premature Indicator Activation,3011,Problems with the activation of a protective measure indicator earlier than expected.
+,Premature Elective Replacement Indicator,1483,Problems with the early or unexpected activation of the elective replacement indicator.
+,Premature End-of-Life Indicator,1480,Problem with the early or unexpected activation of the end-of-life indicator.
+,Shielding Failure,1568,"Problem associated with the device inability to act as a barrier for absorption of radiation energy in X-rays, gamma rays, etc."
+Compatibility Problem,,2960,"Problem associated with compatibility between device, patients or substances (medication, body fluid, etc.)"
+,Component or Accessory Incompatibility,2897,Problem associated with the incompatibility of any device while being operated in the same use environment thereby leading to a dysfunction between the devices.
+,Accessory Incompatible,1004,"An accessory required for the intended purpose of the device appears incompatible with device, thus compromising the intended function of the device."
+,Component Incompatible,1108,"A component required for the proper functioning of the device is not compatible with other components or subassemblies of the device, thus compromising the intended function of the device."
+,Device-Device Incompatibility,2919,Problem associated with the incompatibility of two or more devices while being operated in the same use environment thereby leading to a dysfunction of more than one device.
+,Measurement System Incompatibility,2982,"Problem associated with the incompatibility of the measurement systems between and/or within device systems that are inherent to the individual device thereby leading to miscalculated or mismatched measurements from those devices, e.g., international metric system versus U.S. measurement system."
+,Unintended Compatibility,4047,Problem associated with the ability of two or more devices which are intended to be incompatible but are able to work or fit together.
+Contamination /Decontamination Problem,,2895,"Problem associated with the presence of any unexpected foreign substance found in the device, on its surface or in the package materials, which may affect performance or intended use of the device, or problem that compromise effective decontamination of the device."
+,Contamination,1120,"Problem associated with the undesired introduction of impurities either chemical or microbiological in nature, or of foreign matter into or onto the device."
+,Biofilm coating in Device,1062,Problem associated with the undesired introduction of a biofilm coating into or onto the device.
+,Contamination of Device Ingredient or Reagent,2901,"Problem associated with the undesired introduction of impurities either chemical or microbiological in nature, or of foreign matter into or onto the device ingredient or reagent."
+,Device Contamination with Body Fluid,2317,"Problem associated with the undesired presence of body fluid in/on the device, which are not part of the documented device specifications and requirements."
+,Device Contamination with Chemical or Other Material,2944,Problem associated with contamination of the device with chemical substance or other non biologic material.
+,Microbial Contamination of Device,2303,Problem associated with undesired microbial contamination of the device.
+,Device Contaminated During Manufacture or Shipping,2969,"Problem associated with the presence of any unexpected foreign substance found on the surface or in the package materials, which may affect optimal performance for its intended use, and which occurred during manufacture or shipping."
+,Device Reprocessing Problem,1091,"Problem associated with a failure during any step of reprocessing process (cleaning, disinfection, packaging, labeling, sterilization) of a used or opened from its original packaging, but unused, device."
+,Failure to Clean Adequately,4048,"Problem associated with the failure of the device or operator to remove any visible soil, foreign material or organism deposits on the external surfaces, crevices, and joints of the device."
+,Failure to Disinfect,1175,Failure to properly disinfect the device when reprocessing it.
+,Flushing Problem,1252,Flushing process was not executed properly.
+,Problem with Removal of Enzymatic Cleaner,1213,Enzymatic cleaner was not removed properly.
+,Problem with Sterilization,1596,Device was not sterilized properly during reprocessing.
+,Residue After Decontamination,2325,"Problem associated with the decontamination process not adequately removing unwanted visible soil, foreign material, or organism deposits."
+,Device Contaminated at the User Facility,4064,"Problem associated with the presence of any unexpected foreign substance found on the surface or in the package materials, which may affect optimal performance for its intended use, and which occurred at the user facility."
+Environmental Compatibility Problem,,2929,"Problem associated with the surrounding conditions in which the device is being used such as temperature, noise, lighting, ventilation, or other external factors such as power supply."
+,Ambient Noise Problem,2877,Problem associated with any undesired acoustic energy or vibration that tends to interfere with the operation of the device.
+,Ambient Temperature Problem,2878,Problem associated with compromised device performance at the ambient temperature or the storage at an inappropriate ambient temperature.
+,Fumes or Vapors,2529,"Problem associated with the visibility, odor, or toxicity of an ambient vapor or gas."
+,Fungus in Device Environment,2316,"Problem associated with the visibility of molds, mildews, yeasts, and/or mushrooms in the immediate environment in which the device is being used."
+,Moisture or Humidity Problem,2986,Problem associated with an unsatisfactory humidity level in the storage or use environment which affects the device performance.
+,Moisture Damage,1405,Problem associated with damage inflicted upon the device from water vapor or water in the immediate environment in which the device is being used.
+,Ventilation Problem in Device Environment,3027,Problem associated with the circulation of fresh air in the immediate atmosphere in which the device is being used.
+,Fogging,1253,Problem associated with the visibility of water vapor in the immediate atmosphere in which the device is being used.
+,Device Unsafe to Use in Environment,2918,"Problem associated with environmental condition that results in the unsafe use of the device. (e.g. electromagnetic fields, noise, vibration, microbiological contamination etc.)"
+,Environmental Particulates,2930,"Problem associated with fine solids or liquid particles such as dust, smoke, fume, and/or mist suspended in the immediate atmosphere in which the device is being used."
+,Medical Gas Supply Problem,2985,"Problem associated with the facility-supplied medical gases such as medical air, oxygen, nitrous oxide, and nitrogen."
+,Electrical Power Problem,2925,Problem associated with the quality of the facility-supplied power.
+,Emergency Power Failure,1205,Problem associated with the failure of the facility's emergency power backup system(s) including generators and/or interruptible power systems (UPS).
+,Loss of Power,1475,Problem associated with the failure of primary power supplied by the facility.
+,Power Conditioning Problem,1474,"Problem associated with a momentary overpower/over voltage from the utility and electrical systems of user facilities; - Problem associated with inadequate power conditioning such as the presence of fluctuation, surges, spikes, dropouts, noise and other such undesirable transients."
+Installation-Related Problem,,2965,"Problem associated with unsatisfactory installation, configuration, and/or setup of a specific device."
+,Misassembled During Installation,4049,"Problem associated with the use of the device characterized by incorrect assembly of device components, parts or constituents."
+"Labelling, Instructions for Use or Training Problem",,1318,"Problem associated with device markings/labelling, instructions for use, training and maintenance documentation or guidelines."
+,Device Markings/Labelling Problem,2911,"Problem associated with the written, printed or graphic material accompanying or affixed to the device or any of its packaging. This includes verbal instructions relating to identification, technical description, and usage provided by the device manufacturers. Problems can include but are not limited to this material being unclear, missing, worn out, incorrect or inaccurate."
+,Expiration Date Error,2528,Problem associated with errors in identification of expiration date.
+,Illegible Information,4050,Problem associated with information unable to be read or deciphered.
+,Inaccurate Information,4051,"Problem associated with imprecise, inexact information."
+,Unclear Information,4052,"Problem associated with ambiguous, confused information."
+,Missing Information,4053,"Absence of information e.g. labeling, instruction for use."
+,Wrong Label,4073,Problem associated with an incorrect label being affixed to the device or packaging.
+,Device label look-alike,4081,Problem associated with medical device label that  looks similar to another product leading to confusion. The other product may be another device or a different product such as a medicine or cleaning agent.  Use A020505 for Device packaging look-alike.
+,Lack of Maintenance Documentation or Guidelines,2971,"Problem associated with user facility not receiving adequate service documentation, guidelines, or recommendations to perform preventative and corrective maintenance and performance assurance checks."
+,Inadequate Instructions for Healthcare Professional,1319,"Problem associated with inaccuracies in any written, printed, or graphic matter that is affixed to the device or its packaging with any matter that accompanies the device including verbal instructions related to identification, technical description and use of device provided by the device manufacturers that is intended for healthcare professionals."
+,Inadequate Instructions for Non-Healthcare Professional,2956,"Problem associated with users being unclear and not able to follow any written, printed, or graphic matter that is affixed to device or its packaging with any matter that accompanies the device including verbal instructions related to identification, technical description and use of the device provided by the device manufactures that vary from the standard of medical care in a given environment."
+,Inadequate or Insufficient Training,1643,Problem associated with facility not providing satisfactory initial and/or periodic user training covering operation of the device.
+Human-Device Interface Problem,,2949,Problem associated with an act or omission of an act that has a different result than that intended by the manufacturer or expected by the operator.
+,Device Difficult to Setup or Prepare,1487,"Problem associated with the use of the device in terms of user experiencing difficulty in preparing device for use, even if the operation is being performed according to labeled instructions for use."
+,Device Difficult to Program or Calibrate,1496,"The device is difficult to program, calibrate or set to desired state, even by appropriately trained user/operator."
+,Device Difficult to Maintain,3134,"Problem associated with the user's ability to service the device according to the manufacturer specifications relating to the device routine maintenance, i.e., periodic inspection, failure detection, repair, and care of the device to sustain or restore acceptable operating conditions."
+,Inadequate User Interface,2958,Problem associated with the means by which the operator and the equipment communicate or interact.
+,Device Provides Uninformative Message,4082,"The device provides a message which is unhelpful or uninformative, such as an error code without further information about the meaning or appropriate action to take.
+If the message does not make sense then use A2206 - Device Provides Unintelligible Message."
+,Device Provides Unintelligible Message,4083,"The device provides an unintelligible or incomprehensible message such as an apparently random string of characters.
+If the message makes sense but is not helpful then use A2205 - Device Provides Uninformative Message."
+Use of Device Problem,,1670,"Problem associated with failure to process, service, or operate the device according to the manufacturer's recommendations or recognized best practices."
+,Device Handling Problem,3265,"Handling of the device not in accordance with specification, prior to use on the patient."
+,Use of Incorrect Control/Treatment Settings,1126,Problem associated with the use of the device in terms of inappropriate or incorrect control settings or incorrect treatment parameters for the device's specified operation and/or intended use.
+,Improper or Incorrect Procedure or Method,2017,"Problem associated with the use of the device in terms of nonconforming to that device's intended use, specifications, procedure and process or service instructions and information provided by the device manufacturers."
+,Off-Label Use,1494,Problem associated with the device which has been used for an unapproved indication or for an unapproved intended use.
+,Misassembled,1398,Problem associated with incorrect assembly of the device or constituents after being put into use.
+,Misassembly by Users,3133,Problem associated with incorrect assembly of the device or constituents by the users.
+,Misassembly During Maintenance/Repair,4054,Problem associated with incorrect assembly of the device or constituents during maintenance or repair.
+Adverse Event Without Identified Device or Use Problem,,2993,"An adverse event (e.g. patient harm) appears to have occurred, but there does not appear to have been a problem with the device or the way it was used."
+No Apparent Adverse Event,,3189,"A report has been received but the description provided does not appear to relate to an adverse event. This code allows a report to be recorded for administration purposes, even if it doesn't meet the requirements for adverse event reporting."
+,Prophylactic removal due to corrective action,4077,Prophylactic removal of a device due to corrective action without malfunction or problem of the specific device involved
+Insufficient Information,,3190,An adverse event appears to have occurred but there is not yet enough information available to classify the device problem.
+Appropriate Term/Code Not Available,,3191,The device problem is not adequately described by any other term. Note: this code must not be used unless there is no other feasible code. The preferred term should be documented when submitting an adverse event report. This information will be used to determine if a new term should be added to the code table.
