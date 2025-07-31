@@ -103,10 +103,28 @@ def predict_fda_code(event_desc: str, prod_id: str) -> dict:
         raw_output = response.choices[0].message.content.strip()
         code_match = re.search(r"\b\d{3,5}\b", raw_output)
 
-        return {
-            "code": code_match.group() if code_match else "N/A",
-            "raw_output": raw_output
-        }
+        if code_match:
+            matched_code = code_match.group()
+            matched_row = rag_df[rag_df['FDA Code'] == int(matched_code)]
 
+            if not matched_row.empty:
+                level1_term = matched_row['Level 1 Term'].iloc[0]
+                level2_term = matched_row['Level 2 Term'].iloc[0]
+                matched_term = level2_term if level2_term != level1_term else level1_term
+            else:
+                matched_term = "Unknown"
+
+            return {
+                "code": matched_code,
+                "term": matched_term,
+                "raw_output": raw_output
+            }
+        else:
+            return {
+                "code": "N/A",
+                "term": "Unknown",
+                "raw_output": raw_output
+            }
+        
     except Exception as e:
         return {"code": "N/A", "error": str(e)}

@@ -1,12 +1,14 @@
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, render_template
 from model import predict_fda_code
 import os
 
 app = Flask(__name__, static_folder='static')
 
+
 @app.route('/')
 def serve_frontend():
-    return send_from_directory(app.static_folder, 'index.html')
+    return render_template('index.html')
+
 
 @app.route('/predict', methods=['POST'])
 def predict():
